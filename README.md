@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iwan1111
-- 👀 I’m interested in Python and Kotlin
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on lerning Python 
+- 👀 I’m interested in Python, Kotlin and Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on lerning Java 
 - 📫 How to reach me ...
 
 <!---
